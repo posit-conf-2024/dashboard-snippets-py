@@ -1,0 +1,12 @@
+{
+  "hash": "34239ef1676480dbea53f90aaf937883",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"My first Quarto dashboard\"\nformat: dashboard\n---\n\n\n\n::: {#2236fbc6 .cell title='Highway vs. city mileage' execution_count=2}\n\n::: {.cell-output .cell-output-display}\n![](first-dashboard-py-4_files/figure-html/cell-3-output-1.png){width=640 height=480}\n:::\n:::\n\n\n::: {#3180617f .cell title='Drive types' execution_count=3}\n\n::: {.cell-output .cell-output-display}\n![](first-dashboard-py-4_files/figure-html/cell-4-output-1.png){width=640 height=480}\n:::\n:::\n\n\n",
+    "supporting": [
+      "first-dashboard-py-4_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

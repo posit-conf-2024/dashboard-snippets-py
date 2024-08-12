@@ -1,0 +1,23 @@
+---
+title: "My first Quarto dashboard"
+format: dashboard
+---
+
+```{python}
+from plotnine import ggplot, aes, geom_point, geom_bar
+from plotnine.data import mpg
+```
+
+```{python}
+(
+    ggplot(mpg, aes(x = "cty", y = "hwy"))
+    + geom_point()
+)
+```
+
+```{python}
+(
+    ggplot(mpg, aes(x = "drv"))
+    + geom_bar()
+)
+```

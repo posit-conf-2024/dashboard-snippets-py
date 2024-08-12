@@ -1,0 +1,12 @@
+{
+  "hash": "94c1200a1a3c85396f09c3407449c828",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Valueboxes\"\nformat: dashboard\n---\n\n\n\n## Value boxes {height=\"25%\"}\n\n\n\n::: {#e7e1b1fb .cell color='danger' content='valuebox' icon='fuel-pump-fill' title='Least efficient' execution_count=3}\n\n::: {.cell-output .cell-output-display execution_count=15}\n```\n{'value': '9 mpg'}\n```\n:::\n:::\n\n\n::: {#a969c724 .cell content='valuebox' title='Most efficient' execution_count=4}\n\n::: {.cell-output .cell-output-display execution_count=16}\n```\n{'icon': 'fuel-pump', 'color': 'success', 'value': '35 mpg'}\n```\n:::\n:::\n\n\n::: {.valuebox icon=\"fuel-pump\" color=\"secondary\"}\nAverage city mileage\n\n16\\.86 mpg\n:::\n\n## Plots {height=\"75%\"}\n\n::: {#a652025c .cell title='Highway vs. city mileage' execution_count=5}\n\n::: {.cell-output .cell-output-display}\n![](valueboxes-py_files/figure-html/cell-6-output-1.png){width=640 height=480}\n:::\n:::\n\n\n::: {#c01d6869 .cell title='Drive types' execution_count=6}\n\n::: {.cell-output .cell-output-display}\n![](valueboxes-py_files/figure-html/cell-7-output-1.png){width=640 height=480}\n:::\n:::\n\n\n",
+    "supporting": [
+      "valueboxes-py_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
